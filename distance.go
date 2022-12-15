@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	tor "git.torproject.org/user/phw/zoossh.git"
-	cluster "github.com/NullHypothesis/mlgo/cluster"
+	cluster "github.com/NullHypothesis/mlgo/tree/master/cluster"
 	levenshtein "github.com/arbovm/levenshtein"
 	statistics "github.com/mcgrew/gostats"
 )
