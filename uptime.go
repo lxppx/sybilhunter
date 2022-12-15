@@ -13,7 +13,7 @@ import (
 	"time"
 
 	tor "git.torproject.org/user/phw/zoossh.git"
-	cluster "github.com/NullHypothesis/mlgo/cluster"
+	cluster "github.com/NullHypothesis/mlgo/tree/master/cluster"
 )
 
 const (
